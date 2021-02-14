@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weigth Lifting</string>
+    <string name="name_team_a">Team A SCORE BOARD</string>
+    <string name="name_team_b">Team B SCORE BOARD</string>
+    <string name="reset_team_a">RESET A</string>
+    <string name="reset_team_b">RESET B</string>
+    <string name="reset_all">RESET ALL</string>
+</resources>
